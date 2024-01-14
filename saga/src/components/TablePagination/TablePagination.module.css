@@ -1,0 +1,12 @@
+.tablePaginationWrapper{
+    margin:20px;
+}
+.pageButton{
+    cursor: pointer;
+}
+.pageButton:hover{
+    color: red;
+}
+
+
+
